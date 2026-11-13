@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ChefConnect – Online Chef Booking",
+  "description": "Book verified professional chefs for home cooking, festivals, weddings, birthday parties, and bulk family functions. Custom menus, ingredient options, and live booking updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
